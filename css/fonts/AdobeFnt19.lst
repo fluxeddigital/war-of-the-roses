@@ -1,0 +1,54 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NewBaskervilleStd-Bold
+FamilyName:ITC New Baskerville Std
+StyleName:Bold
+MenuName:ITC New Baskerville Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:ITC New Baskerville Std Bold
+WritingScript:Roman
+OutlineFileName:\NewBaskervilleStd-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:49172
+FileModTime:1052767074
+NameArray:0,Mac,4,ITC New Baskerville Std Bold
+NameArray:0,Win,1,ITC New Baskerville Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:NewBaskervilleStd-Roman
+FamilyName:ITC New Baskerville Std
+StyleName:Roman
+MenuName:ITC New Baskerville Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:ITC New Baskerville Std Roman
+WritingScript:Roman
+OutlineFileName:\NewBaskervilleStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:49008
+FileModTime:1052767074
+NameArray:0,Mac,18,ITC New Baskerville Std
+NameArray:0,Mac,4,ITC New Baskerville Std Roman
+NameArray:0,Win,1,ITC New Baskerville Std
+%EndFont
+
